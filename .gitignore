@@ -95,3 +95,5 @@ Build/Android/res/*/*
 /DerivedDataCache
 /Intermediate
 /Saved
+/bin
+/__Plugins
